@@ -1,4 +1,2 @@
 This is version two of my software in github
 new comment addded
-
-added restriction
